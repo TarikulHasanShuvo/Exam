@@ -1,8 +1,11 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+<div class="container">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <span class="navbar-brand">Timer -</span>
+     <span class="ml-auto">/30</span>
+  </nav>
+</div>
+
 </template>
 
 <script>
