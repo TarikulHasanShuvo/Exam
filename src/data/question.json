@@ -1,0 +1,73 @@
+{
+  "exam": [
+    {
+      "question": "Which is good ?",
+      "type": "radio",
+      "checked": "",
+      "answers": [
+        {
+          "title": "Book",
+          "score": 0
+        },
+        {
+          "title": "Pen",
+          "score": 0
+        },
+        {
+          "title": "Bag",
+          "score": 10
+        },
+        {
+          "title": "Text Book",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "question": "Which is good Color?",
+      "type": "checkbox",
+      "checked": [],
+      "answers": [
+        {
+          "title": "Red",
+          "score": 0
+        },
+        {
+          "title": "Blue",
+          "score": 10
+        },
+        {
+          "title": "Green",
+          "score": 0
+        },
+        {
+          "title": "White",
+          "score": 10
+        }
+      ]
+    },
+    {
+      "question": "Which country is Beautiful ?",
+      "type": "checkbox",
+      "checked": [],
+      "answers": [
+        {
+          "title": "Bangladesh",
+          "score": 10
+        },
+        {
+          "title": "Nepal",
+          "score": 0
+        },
+        {
+          "title": "India",
+          "score": 0
+        },
+        {
+          "title": "USa",
+          "score": 0
+        }
+      ]
+    }
+  ]
+}
